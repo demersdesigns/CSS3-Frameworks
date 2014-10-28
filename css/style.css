@@ -1,0 +1,35 @@
+body{
+  background: #FFB900;
+}
+
+.container{
+  margin: 2.142857143em auto;
+  padding: 2em;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.eats-branding{
+  text-align: center;
+}
+
+.eats-menu{
+  margin: 2em 0;
+}
+
+.eats-block{
+  padding: 2em 0;
+  border-bottom: 1px solid #666;
+}
+
+.eats-block:hover{
+  background: #ececec;
+}
+
+.eats-copy h3{
+  margin-top: 0;
+}
+
+.eats-cta{
+  text-align: center;
+}
